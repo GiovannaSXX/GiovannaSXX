@@ -15,14 +15,12 @@ Sou técnica em Administração e Desenvolvimento de Sistemas. Atualmente, estou
 ## 🛠 Ferramentas de Desenvolvimento  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebird/firebird-original.svg" height="50" alt="Firebird"/>
 </div>
 
 ### 📊 Meu GitHub Stats
  
-[![Ana Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajlima12&show_icons=true&count_private=true&hide=prs&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Giovanna GitHub stats](https://github-readme-stats.vercel.app/api?username=ajlima12&show_icons=true&count_private=true&hide=prs&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
  
 ---
  
