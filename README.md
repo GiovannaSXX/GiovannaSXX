@@ -3,6 +3,7 @@
 ## Seja bem-vindo (a) ao meu perfil!  
 
 Sou técnica em Administração e Desenvolvimento de Sistemas. Atualmente, estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas, na Fatec Zona Leste e trabalho como Suporte Técnico na Ecalc Software.  
+
 💡 Estou sempre explorando meus conhecimentos e buscando novos aprendizados.  
 
 ## 🚀 Tecnologias que utilizo 
