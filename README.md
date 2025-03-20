@@ -23,6 +23,12 @@ Sou técnica em Administração e Desenvolvimento de Sistemas. Atualmente, estou
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap"/>
 </div>
 
+### 📚 **Confira meu TCC sobre um App de Turismo para Las Vegas**:
+Em parceria com meu grupo, desenvolvemos um aplicativo de turismo para Las Vegas, que oferece a possibilidade de explorar os principais pontos turísticos, hotéis, opções de transporte, consultar a conversão do real para o dólar e obter dicas de inglês para iniciantes. O código completo e o desenvolvimento do projeto estão disponíveis no meu repositório do GitHub:
+ 
+[**VegasExperience - TCC de Turismo para Las Vegas**](https://github.com/GiovannaSXX/TCC-VegasExperienceV2-main)
+ 
+---
 
 ### 📊 Meu GitHub Stats
  
