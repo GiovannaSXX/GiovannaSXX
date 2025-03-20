@@ -1,9 +1,9 @@
 # 👋 Olá, meu nome é Giovanna da Silva!  
 
-Sou técnica em Administração e Desenvolvimento de Sistemas. Atualmente, estou no 3º semestre da faculdade de Análise e Desenvolvimento de Sistemas e trabalho como Suporte Técnico na Ecalc Software.  
+Sou técnica em Administração e Desenvolvimento de Sistemas. Atualmente, estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas, na Fatec Zona Leste e trabalho como Suporte Técnico na Ecalc Software.  
 💡 Estou sempre explorando meus conhecimentos e buscando aprender coisas novas.  
 
-## 🚀 Tecnologias utilizadas 
+## 🚀 Tecnologias que utilizo 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
@@ -12,7 +12,7 @@ Sou técnica em Administração e Desenvolvimento de Sistemas. Atualmente, estou
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
 </div>
 
-## 🛠 Ferramentas e Frameworks utilizados  
+## 🛠 Ferramentas e Frameworks que utilizo 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma"/>
