@@ -1,11 +1,10 @@
-# 👋 Olá, meu nome é Giovanna da Silva!
+# 👋 Olá, meu nome é Giovanna da Silva!  
 
-Sou apaixonada por tecnologia!  
-💡 Estou sempre explorando novas tecnologias e desenvolvendo soluções inovadoras.  
+Sou técnica em Administração e Desenvolvimento de Sistemas. Atualmente, estou no 3º semestre da faculdade de Análise e Desenvolvimento de Sistemas e trabalho como Suporte Técnico na Ecalc Software.  
+💡 Estou sempre explorando meus conhecimentos e buscando aprender coisas novas.  
 
 ## 🚀 Habilidades  
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
@@ -23,8 +22,7 @@ Sou apaixonada por tecnologia!
 
 ## 📫 Contato  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)  
 
 ---
-
 
