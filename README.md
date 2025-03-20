@@ -3,7 +3,7 @@
 Sou técnica em Administração e Desenvolvimento de Sistemas. Atualmente, estou no 3º semestre da faculdade de Análise e Desenvolvimento de Sistemas e trabalho como Suporte Técnico na Ecalc Software.  
 💡 Estou sempre explorando meus conhecimentos e buscando aprender coisas novas.  
 
-## 🚀 Habilidades  
+## 🚀 Tecnologias utilizadas 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
@@ -12,15 +12,18 @@ Sou técnica em Administração e Desenvolvimento de Sistemas. Atualmente, estou
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
 </div>
 
-## 🛠 Ferramentas de Desenvolvimento  
+## 🛠 Ferramentas e Frameworks utilizados  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React Native"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap"/>
 </div>
+
 
 ### 📊 Meu GitHub Stats
  
-[![Giovanna GitHub stats](https://github-readme-stats.vercel.app/api?username=ajlima12&show_icons=true&count_private=true&hide=prs&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Giovanna GitHub stats](https://github-readme-stats.vercel.app/api?username=GiovannaSXX&show_icons=true&count_private=true&hide=prs&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
  
 ---
  
