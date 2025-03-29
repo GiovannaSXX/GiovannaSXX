@@ -1,5 +1,8 @@
-# 👋 Olá, meu nome é Giovanna da Silva!  
+# 👋 Olá, meu nome é Giovanna da quebrada dos 3 cocos, fio. Nem vem que aqui não tem certo truta vai toma no cu certo carlho porra fodase!
 
+Meu link do tigrinho. Quem não entrar é otario vai tomar no cu carçlaho:
+https://www.betano.bet.br/casino/?gad_source=1&gclid=EAIaIQobChMIx7aK9P-tjAMVHiZECB2lfxN3EAAYASAAEgJXZPD_BwE
+ 
 ## Seja bem-vindo (a) ao meu perfil!  
 
 Sou técnica em Administração e Desenvolvimento de Sistemas. Atualmente, estou cursando o 3º semestre de Análise e Desenvolvimento de Sistemas, na Fatec Zona Leste e trabalho como Suporte Técnico na Ecalc Software.  
