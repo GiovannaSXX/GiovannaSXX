@@ -1,10 +1,4 @@
-# 👋 Olá, meu nome é Giovanna da quebrada dos 3 cocos, fio. Nem vem que aqui não tem certo truta vai toma no cu certo carlho porra fodase!
-
-Meu link do tigrinho. Quem não entrar é otario vai tomar no cu carçlaho:
-https://www.betano.bet.br/casino/?gad_source=1&gclid=EAIaIQobChMIx7aK9P-tjAMVHiZECB2lfxN3EAAYASAAEgJXZPD_BwE
-
-![image](https://github.com/user-attachments/assets/5fb7d453-348f-427e-b23a-562ed2d38fc0)
-
+# 👋 Olá, meu nome é Giovanna da Silva
  
 ## Seja bem-vindo (a) ao meu perfil!  
 
